@@ -2,7 +2,7 @@
 - 👀 I’m interested in making youtube videos
 - 🌱 I’m currently learning computer engineering
 - 💞️ I’m looking to collaborate on different topics like fps boost pack etc
-- 📫 How to reach me - contact me on insta @danusabu
+- 📫 How to reach me - contact me on insta @imdanusabu
 
 <!---
 danusab/danusab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
